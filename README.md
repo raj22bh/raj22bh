@@ -40,7 +40,7 @@
     <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
     <li>Hugging Face: <a href="https://huggingface.co/YourProfile">YourProfile</a></li>
     <li>Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/raj-bhalerao-6a1919262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkedin.com/in/yourprofile</a></li>
 </ul>
 
 ---
