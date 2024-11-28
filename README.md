@@ -38,7 +38,7 @@
 </p>
 <ul>
     <li>Email: <a href="mailto:rajbhalerao972@gmail.com">Rajbhalerao972@gmail.com</a></li>
-    <li>Hugging Face: <a href="https://huggingface.co/Rjavenger"></a></li>
+    <li>Hugging Face: <a href="https://huggingface.co/Rjavenger">https://www.google.com/imgres?q=hugging%20face%20emoji&imgurl=http%3A%2F%2Femojiisland.com%2Fcdn%2Fshop%2Fproducts%2FHugging_Face_Emoji_2028ce8b-c213-4d45-94aa-21e1a0842b4d_grande.png%3Fv%3D1571606036&imgrefurl=https%3A%2F%2Femojiisland.com%2Fproducts%2Fhugging-face-emoji-icon&docid=5DXnvduT0_0K5M&tbnid=YvHR-3i7oHZqxM&vet=12ahUKEwiCp7O7k_-JAxVZdfUHHRpSHoQQM3oECBcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiCp7O7k_-JAxVZdfUHHRpSHoQQM3oECBcQAA</a></li>
     <li>Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/raj-bhalerao-6a1919262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkedin.com/in/yourprofile</a></li>
 </ul>
