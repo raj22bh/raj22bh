@@ -18,14 +18,13 @@
     <li><strong>Languages:</strong> Python, SQL, MATLAB, JavaScript</li>
     <li><strong>Machine Learning Tools:</strong> TensorFlow, PyTorch, Scikit-learn</li>
     <li><strong>Visualization & Analysis:</strong> Matplotlib, Seaborn, PowerBI</li>
-    <li><strong>Cloud & Platforms:</strong> AWS, Google Cloud, Hugging Face</li>
+    <li><strong>Cloud & Platforms:</strong>  Google Cloud, Hugging Face</li>
     <li><strong>Other Tools:</strong> Docker, Git, Jupyter Notebook</li>
 </ul>
 
 ---
 
 <h2>🚀 Current Focus</h2>
-h2>🚀 Current Focus</h2>
 <ul>
     <li><strong>Generative Models:</strong> Exploring state-of-the-art generative techniques, including GANs and diffusion models, to create systems capable of producing high-quality data and content.</li>
     <li><strong>Data-Driven Decision Making:</strong> Building models to analyze large datasets and deliver actionable insights for business growth.</li>
@@ -38,10 +37,10 @@ h2>🚀 Current Focus</h2>
     I’m always open to discussions, collaborations, and brainstorming sessions. You can connect with me via:
 </p>
 <ul>
-    <li>Email: <a href="mailto:rajbhalerao972@gmail.com">Rajbhalerao972@gmail.com</a></li>
+    <li>Email: <a href="mailto:rajbhalerao972@gmail.com">Rajbhaler613@gmail.com</a></li>
     <li>Hugging Face: <a href="https://huggingface.co/Rjavenger">🤗</a></li>
     <li>Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/raj-bhalerao-6a1919262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkedin.com/in/yourprofile</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/raj-bhalerao-6a1919262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkedin.com/in/Rajbhalerao</a></li>
 </ul>
 
 ---
