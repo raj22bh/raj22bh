@@ -25,8 +25,9 @@
 ---
 
 <h2>🚀 Current Focus</h2>
+h2>🚀 Current Focus</h2>
 <ul>
-    <li><strong>AI Art & Text Synthesis:</strong> Working on a pipeline that generates high-quality images paired with dynamic and visually appealing text overlays, revolutionizing design automation.</li>
+    <li><strong>Generative Models:</strong> Exploring state-of-the-art generative techniques, including GANs and diffusion models, to create systems capable of producing high-quality data and content.</li>
     <li><strong>Data-Driven Decision Making:</strong> Building models to analyze large datasets and deliver actionable insights for business growth.</li>
 </ul>
 
