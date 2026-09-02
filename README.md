@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;%3E+AI+Product+Management;%3E+AI+%26+Automation&font=Fira%20Code&center=true&width=700&height=90&duration=2500&color=39FF14&background=0D1117FF&vCenter=true&pause=800&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;%3E+AI+Product+Manager;%3E+AI+%26+Automation&font=Fira%20Code&center=true&width=700&height=90&duration=2500&color=39FF14&background=0D1117FF&vCenter=true&pause=800&size=22" />
 </p>
 
 <h1 align="center">Hey there, I'm Raj Bhalerao! 👋</h1>
@@ -53,32 +53,3 @@ I'm an AI Engineer and Product-minded builder, sitting at the intersection of **
 
 ---
 
-## 🌐 Let's Connect!
-
-I'm always open to discussions, collaborations, and brainstorming sessions around AI products and automation.
-
-<p align="center">
-  <a href="mailto:rajbhaler613@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" alt="Email" width="45" height="45" style="background:#EA4335;border-radius:12px;padding:10px;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raj-bhalerao-6a1919262" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" width="45" height="45" style="background:#0077B5;border-radius:12px;padding:10px;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://huggingface.co/Rjavenger" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/huggingface.svg" alt="Hugging Face" width="45" height="45" style="background:#FFD21E;border-radius:12px;padding:10px;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/raj22bh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" alt="GitHub" width="45" height="45" style="background:#181717;border-radius:12px;padding:10px;"/>
-  </a>
-</p>
-
-<p align="center">
-    <strong>Let's collaborate, innovate, and create something extraordinary together! 🌟</strong>
-</p>
-
-<!--
-**raj22bh/raj22bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
