@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI Engineer and Product-minded builder based in Gurugram, Haryana, sitting at the intersection of **Generative AI, automation, and product management**. I turn messy, manual workflows into AI-powered systems that actually ship — from resume-screening agents to no-code automation pipelines. I like taking a process, finding where it breaks, and building something that fixes it end-to-end, then measuring the impact in real numbers, not just demos.
+I'm an AI Engineer and Product-minded builder, sitting at the intersection of **Generative AI, automation, and product management**. I turn messy, manual workflows into AI-powered systems that actually ship — from resume-screening agents to no-code automation pipelines. I like taking a process, finding where it breaks, and building something that fixes it end-to-end, then measuring the impact in real numbers, not just demos.
 
 - 🔭 Currently building AI-powered automation workflows that streamline onboarding and operational processes
 - 🌱 Currently deepening my skills in **agentic AI systems, LangChain, and generative models**
