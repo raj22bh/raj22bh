@@ -51,5 +51,5 @@ I'm an AI Engineer and Product-minded builder, sitting at the intersection of **
 - **Data & Analytics:** Data Analytics, Matplotlib, Seaborn, R, Google Colab
 - **Developer Tools:** VS Code, Git/GitHub, Docker, Jupyter Notebook, Notion, Figma, Canva, Trello, ClickUp, Slack
 
----
+
 
